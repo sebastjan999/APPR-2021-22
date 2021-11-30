@@ -1,8 +1,9 @@
+
 library(knitr)
 library(rvest)
 library(gsubfn)
 library(tidyr)
-library(tmap)
+#library(tmap)
 library(shiny)
 library(readr)
 library(dplyr)
